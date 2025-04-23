@@ -1,2 +1,3 @@
-# Competitions_DSWA
-Repositório dedicado às resoluções das competições da DSWA (Data Science Warriors Academy), entidade de Ciência de Dados da UFSCar Sorocaba, por meio da plataforma Kaggle.
+# Competições - DSWA
+
+Neste repositório irei compartilhar os notebooks contendo as minhas resoluções das competições promovidas pela DSWA, entidade de Ciência de Dados e IA da UFSCar Sorocaba. As competições estão separadas em diferentes pastas, contendo seus respectivos notebooks com as soluções desenvolvidas. 
